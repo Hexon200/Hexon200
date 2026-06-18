@@ -66,4 +66,4 @@
 
 ------
 
-Credit: [Zhandos200](https://github.com/Zhandos200)
+Credit: [Zhandos200](https://github.com/Hexon200)
